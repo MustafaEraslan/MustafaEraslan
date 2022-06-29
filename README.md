@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Eraslan</h1>
 <h3 align="center">I graduated from the Department of Electronics and Communication Engineering. I am continuing my master education. I am writing a thesis in the field of computer vision, which analyzes the healing of wounds in the medical field. I am looking for a job in web application development. I have a structure that loves to learn, does not give up and plans time well. I had the opportunity to realize Artificial Neural Networks And Market Share Prediction, Remote Access Transport System, Google Analytics projects during my university education.</h3>
-<img align="right=" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center=" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaeraslan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaeraslan" /> </p>
 
