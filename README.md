@@ -5,13 +5,6 @@
     <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaeraslan&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaeraslan" /> </p>
-
-
-- 🌱 I’m currently learning **.NET**
-
-- 💬 Ask me about **IOS**
-
 - 📫 How to reach me **eraslan.mustafa@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
